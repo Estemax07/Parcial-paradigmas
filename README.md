@@ -17,7 +17,7 @@ Procedere a pegar la tabla trasncrita a markdown para que desde el README sea ma
 | 20 | 0.000463  | 0.000474  |
 | 50 | 0.001142  | 0.001166  |
 
-se puede ver que los tiempos de ejecucion son similares cuando N es bajo, pero a medida que aumenta el numero de armonicos el metodo iterativo empieza a ser un poco mas rapido que el recursivo. Aunque la diferencia es mas ben poca pues se trata de micro segundos, el enfoque iterativo es un poco mas eficiente y practico, especialmente si se quiere usar con valores de N mas grandes.
+se puede ver que los tiempos de ejecucion son similares cuando N es bajo, pero a medida que aumenta el numero de armonicos el metodo iterativo empieza a ser un poco mas rapido que el recursivo. Aunque la diferencia es mas ben poca pues se trata de mili segundos, el enfoque iterativo es un poco mas eficiente y practico, especialmente si se quiere usar con valores de N mas grandes.
 
 
 
